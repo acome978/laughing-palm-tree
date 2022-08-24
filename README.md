@@ -1,2 +1,5 @@
 # laughing-palm-tree
-K
+story-edit.txt
+story-edit txt
+storyu-txt 
+story-txt edit
